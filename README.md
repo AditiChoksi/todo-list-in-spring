@@ -12,8 +12,6 @@ The Todo List application is built using
 * Eventuate Tram
 * Spring Boot
 * MySQL
-* ElasticSearch
-* Apache Kafka
 
 The application consists of two services:
 
